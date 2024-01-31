@@ -7,11 +7,11 @@ def question2_2():
     return answer
 
 def question2_3():
-    answer = ['continuous', 'quantitative', 'interval']
+    answer = ['continuous', 'quantitative', 'interval'] 
     return answer
 
 def question2_4():
-    answer = ['discrete', 'qualitative', 'ordinal']
+    answer = ['discrete', 'qualitative', 'ordinal'] 
     return answer
 
 def question2_5():
